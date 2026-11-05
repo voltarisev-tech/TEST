@@ -22,7 +22,7 @@ Ensayos: inspección visual (VT) y líquidos penetrantes (PT)
 | Método VT | UNE-EN 13018 (principios generales del examen visual) | Propuesto, falta confirmar |
 | Método PT | UNE-EN ISO 3452-1 | Propuesto, falta confirmar |
 | Productos PT | UNE-EN ISO 3452-2 (declarada en el envase del penetrante) | Confirmado |
-| Criterio de aceptación PT | UNE-EN 10228-2 (piezas forjadas de acero) o especificación del cliente | _pendiente_ |
+| Criterio de aceptación | No aplica. El ensayo es de evaluación de daños, sin criterio de aceptación definido. Se registran y dimensionan todas las indicaciones. | Confirmado por H7 |
 
 ## 2. Contexto
 
@@ -59,6 +59,14 @@ En el envase se declaran estas especificaciones: AMS 2644, EN ISO 3452-2 y ASME.
 | _pendiente_ | Eliminación del exceso | | |
 | _pendiente_ | Revelado | | |
 | _pendiente_ | Interpretación | | |
+
+## 4.2 Alcance del dictamen
+
+El cliente no ha fijado criterio de aceptación. El informe es descriptivo, de evaluación de daños: no emite un veredicto de aceptado o rechazado. De cada indicación se registra:
+- encastre y posición, con la distancia al extremo de referencia;
+- tipo: lineal (longitud ≥ 3 × anchura) o redondeada;
+- longitud o diámetro;
+- origen probable: picadura, arrastre por gripado, grieta, marca de pulido.
 
 ## 5. Pendiente
 
