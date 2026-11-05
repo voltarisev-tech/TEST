@@ -13,6 +13,17 @@ Ensayos: inspección visual (VT) y líquidos penetrantes (PT)
 | Nº de polo afectado | _pendiente_ | |
 | Identificación de los encastres | _pendiente (A/B/C)_ | |
 
+## 1.1 Normativa
+
+| Ámbito | Norma | Estado |
+|---|---|---|
+| Cualificación y certificación del personal END | UNE-EN ISO 9712 | Confirmado por H7 |
+| Nivel y nº de certificado de Hugo en VT y PT | ISO 9712 | _pendiente_ |
+| Método VT | UNE-EN 13018 (principios generales del examen visual) | Propuesto, falta confirmar |
+| Método PT | UNE-EN ISO 3452-1 | Propuesto, falta confirmar |
+| Productos PT | UNE-EN ISO 3452-2 (declarada en el envase del penetrante) | Confirmado |
+| Criterio de aceptación PT | UNE-EN 10228-2 (piezas forjadas de acero) o especificación del cliente | _pendiente_ |
+
 ## 2. Contexto
 
 Durante el montaje de uno de los polos sobre el rotor se produjo un gripado en el acople de cola de milano. Se desmontó el polo y quedaron marcadas las superficies de los encastres del rotor. Después se pulió a mano la zona para eliminar o disimular el arrancado de material.
