@@ -18,7 +18,7 @@ Ensayos: inspección visual (VT) y líquidos penetrantes (PT)
 | Ámbito | Norma | Estado |
 |---|---|---|
 | Cualificación y certificación del personal END | UNE-EN ISO 9712 | Confirmado por H7 |
-| Nivel y nº de certificado de Hugo en VT y PT | ISO 9712 | _pendiente_ |
+| Nivel de Hugo | Nivel 2 en VT y nivel 2 en PT (ISO 9712) | Confirmado. Falta el nº de certificado. |
 | Método VT | UNE-EN 13018 (principios generales del examen visual) | Propuesto, falta confirmar |
 | Método PT | UNE-EN ISO 3452-1 | Propuesto, falta confirmar |
 | Productos PT | UNE-EN ISO 3452-2 (declarada en el envase del penetrante) | Confirmado |
