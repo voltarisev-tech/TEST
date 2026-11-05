@@ -39,9 +39,20 @@ Durante el montaje de uno de los polos sobre el rotor se produjo un gripado en e
 
 En el envase se declaran estas especificaciones: AMS 2644, EN ISO 3452-2 y ASME.
 
+### 4.1 Secuencia del ensayo
+
+| Hora | Fase | Foto | Observaciones |
+|---|---|---|---|
+| _pendiente_ | Limpieza previa | | |
+| 13:15 | Aplicación del penetrante (aerosol) | F11, F12, F13 | Hay una película continua y uniforme sobre las 3 colas de milano: coronas, flancos, fondos y radios de acuerdo. También cubre el rebaje del extremo y las zonas próximas de la llanta. La superficie se mantiene húmeda. En el extremo sigue montado el útil, una pletina con varillas roscadas. |
+| _pendiente_ | Eliminación del exceso | | |
+| _pendiente_ | Revelado | | |
+| _pendiente_ | Interpretación | | |
+
 ## 5. Pendiente
 
 - Datos de identificación del polo y de los encastres.
 - Iluminación en lux, temperatura de la pieza y tiempos de penetración y revelado.
 - Limpiador y revelador, con su lote.
 - Resultados de PT.
+- Valorar si las zonas tapadas por el útil del extremo (pletina y tuercas) han quedado sin ensayar.
